@@ -1,0 +1,65 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:alum="https://raw.githubusercontent.com/andres-melgar/rdf/master/alumnos.rdf#">
+  <rdf:Description rdf:about="alum:20204583">
+    <vcard:EMAIL>viky.ubaldo@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>a20204583@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204411">
+    <vcard:EMAIL>grecia.reyes4@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>a20204411@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204592">
+    <vcard:EMAIL>milton.carhuas@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>a20204592@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204457">
+    <vcard:EMAIL>jcasasq@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>a20204457@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20163659">
+    <vcard:EMAIL>david.inga.81@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>dingan@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:19987727">
+    <vcard:EMAIL>percykim@hotmail.com</vcard:EMAIL>
+    <vcard:EMAIL>percy.tippe@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20071134">
+    <vcard:EMAIL>sikorski94@hotmail.com</vcard:EMAIL>
+    <vcard:EMAIL>garcia.s@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20173725">
+    <vcard:EMAIL>lavig17@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>luis.vives@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20064094">
+    <vcard:EMAIL>alfa_310@hotmail.com</vcard:EMAIL>
+    <vcard:EMAIL>berolatti.diego@pucp.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204837">
+    <vcard:EMAIL>joshuaayalauni@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>a20204837@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204704">
+    <vcard:EMAIL>awainerc@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>anthony.cachay@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204579">
+    <vcard:EMAIL>nelsibelly@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>nelsi.melgarejo@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20090415">
+    <vcard:EMAIL>dreuan9@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>a20090415@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204575">
+    <vcard:EMAIL>ryali93@gmail.com</vcard:EMAIL>
+    <vcard:EMAIL>roy.yali@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20037060">
+    <vcard:EMAIL>romaria85@hotmail.com</vcard:EMAIL>
+    <vcard:EMAIL>jorge.alor@pucp.edu.pe</vcard:EMAIL>
+  </rdf:Description>
+</rdf:RDF>
