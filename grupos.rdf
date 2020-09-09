@@ -1,0 +1,70 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:grupo="https://raw.githubusercontent.com/andres-melgar/rdf/master/grupos.rdf#">
+  <rdf:Description rdf:about="alum:20204583">
+    <grupo:pertenece>
+      <rdf:Description rdf:about="grupo:3">
+        <vcard:GROUP>Proyectos de I+D+i</vcard:GROUP>
+      </rdf:Description>
+    </grupo:pertenece>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204411">
+    <grupo:pertenece>
+      <rdf:Description rdf:about="grupo:5">
+        <vcard:GROUP>Tesis</vcard:GROUP>
+      </rdf:Description>
+    </grupo:pertenece>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204592">
+    <grupo:pertenece rdf:resource="grupo:3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204457">
+    <grupo:pertenece>
+      <rdf:Description rdf:about="grupo:2">
+        <vcard:GROUP>Patentes</vcard:GROUP>
+      </rdf:Description>
+    </grupo:pertenece>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20163659">
+    <grupo:pertenece>
+      <rdf:Description rdf:about="grupo:4">
+        <vcard:GROUP>Libros académicos</vcard:GROUP>
+      </rdf:Description>
+    </grupo:pertenece>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:19987727">
+    <grupo:pertenece rdf:resource="grupo:4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20071134">
+    <grupo:pertenece rdf:resource="grupo:4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20064094">
+    <grupo:pertenece rdf:resource="grupo:5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20173725">
+    <grupo:pertenece rdf:resource="grupo:5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204837">
+    <grupo:pertenece rdf:resource="grupo:3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204704">
+    <grupo:pertenece>
+      <rdf:Description rdf:about="grupo:1">
+        <vcard:GROUP>Pubicaciones académicas</vcard:GROUP>
+      </rdf:Description>
+    </grupo:pertenece>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204579">
+    <grupo:pertenece rdf:resource="grupo:1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20090415">
+    <grupo:pertenece rdf:resource="grupo:1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204575">
+    <grupo:pertenece rdf:resource="grupo:2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20037060">
+    <grupo:pertenece rdf:resource="grupo:2"/>
+  </rdf:Description>
+</rdf:RDF>
