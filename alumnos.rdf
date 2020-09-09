@@ -1,0 +1,50 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#"
+    xmlns:alum="https://raw.githubusercontent.com/andres-melgar/rdf/master/alumnos.rdf#">
+  <rdf:Description rdf:about="alum:20204583">
+    <vcard:FN>UBALDO GAMARRA, VICTORIA ALEJANDRA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204411">
+    <vcard:FN>REYES FERNANDEZ, GRECIA CAROLINA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204592">
+    <vcard:FN>CARHUAS  YAÑEZ, MILTON CESAR</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204457">
+    <vcard:FN>CASAS QUIROZ, JULIO CESAR</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20163659">
+    <vcard:FN>INGA NINAHUANCA, DAVID WYLER</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:19987727">
+    <vcard:FN>TIPPE QUINTANILLA, PERCY KIM</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20071134">
+    <vcard:FN>GARCIA ACOSTA, SEBASTIAN</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20173725">
+    <vcard:FN>VIVES GARNIQUE, LUIS</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20064094">
+    <vcard:FN>BEROLATTI GONZALES, DIEGO ALBERTO</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204837">
+    <vcard:FN>AYALA SILVA, JOSHUA ANDRE</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204704">
+    <vcard:FN>CACHAY GUIVIN, ANTHONY WAINER</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204579">
+    <vcard:FN>MELGAREJO VERGARA, NELSI BELLY</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20090415">
+    <vcard:FN>AYAIPOMA CONDORI, ANDREU AMADEUS</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20204575">
+    <vcard:FN>YALI SAMANIEGO, ROY MARCO</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="alum:20037060">
+    <vcard:FN>ALOR MORALES, JORGE WILFREDO</vcard:FN>
+  </rdf:Description>
+</rdf:RDF>
