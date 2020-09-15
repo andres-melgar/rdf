@@ -1,7 +1,7 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:j.0="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#">
+    xmlns:j.0="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#">
   <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#em">
     <dc:description>Expectation-maximization</dc:description>
   </rdf:Description>

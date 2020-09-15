@@ -1,19 +1,19 @@
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#supervizado">
-    <dc:description>Aprendizaje supervisado</dc:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#prediccion">
-    <dc:description>Predicción</dc:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#agrupamiento">
-    <dc:description>Agrupamiento</dc:description>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#reglas_asociacion">
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#reglas_asociacion">
     <dc:description>Reglas de asociación</dc:description>
   </rdf:Description>
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#no_supervizado">
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#supervizado">
+    <dc:description>Aprendizaje supervisado</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#agrupamiento">
+    <dc:description>Agrupamiento</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#no_supervizado">
     <dc:description>Aprendizaje no supervisado</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#prediccion">
+    <dc:description>Predicción</dc:description>
   </rdf:Description>
 </rdf:RDF>
