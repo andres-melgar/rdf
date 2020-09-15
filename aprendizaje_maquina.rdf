@@ -10,7 +10,7 @@
   <j.0:agrupamiento rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#em"/>
   <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#reglas_asociacion">
     <rdfs:subClassOf>
-      <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#no_supervizado">
+      <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#no_supervisado">
         <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/aprendizaje_maquina.rdf#paradigma"/>
       </rdf:Description>
     </rdfs:subClassOf>
@@ -21,12 +21,12 @@
   <j.0:prediccion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#naive_bayes"/>
   <j.0:prediccion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#knn"/>
   <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#agrupamiento">
-    <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#no_supervizado"/>
+    <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#no_supervisado"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#supervizado">
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#supervisado">
     <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/aprendizaje_maquina.rdf#paradigma"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#prediccion">
-    <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#supervizado"/>
+    <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/paradigmas.rdf#supervisado"/>
   </rdf:Description>
 </rdf:RDF>
