@@ -1,0 +1,32 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.0="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdfs:Class rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/aprendizaje_maquina.rdf#paradigma">
+    <dc:description>Paradigma de aprendizaje</dc:description>
+  </rdfs:Class>
+  <j.0:agrupamiento rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#kmeans"/>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#reglas_asociacion">
+    <rdfs:subClassOf>
+      <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#no_supervizado">
+        <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/aprendizaje_maquina.rdf#paradigma"/>
+      </rdf:Description>
+    </rdfs:subClassOf>
+  </rdf:Description>
+  <j.0:agrupamiento rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#em"/>
+  <j.0:agrupamiento rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#cobweb"/>
+  <j.0:prediccion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#regresion_lineal"/>
+  <j.0:prediccion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#svm"/>
+  <j.0:prediccion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#naive_bayes"/>
+  <j.0:prediccion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#knn"/>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#supervizado">
+    <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/aprendizaje_maquina.rdf#paradigma"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#prediccion">
+    <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#supervizado"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#agrupamiento">
+    <rdfs:subClassOf rdf:resource="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#no_supervizado"/>
+  </rdf:Description>
+</rdf:RDF>

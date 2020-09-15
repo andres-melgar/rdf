@@ -1,0 +1,35 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.0="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#">
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#em">
+    <dc:description>Expectation-maximization</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#kmeans">
+    <dc:description>k-means</dc:description>
+  </rdf:Description>
+  <j.0:reglas_asociacion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#apriori">
+    <dc:description>a priori</dc:description>
+  </j.0:reglas_asociacion>
+  <j.0:reglas_asociacion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#partition">
+    <dc:description>Partition</dc:description>
+  </j.0:reglas_asociacion>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#cobweb">
+    <dc:description>Cobweb</dc:description>
+  </rdf:Description>
+  <j.0:reglas_asociacion rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#eclat">
+    <dc:description>Eclat</dc:description>
+  </j.0:reglas_asociacion>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#regresion_lineal">
+    <dc:description>Regresión Lineal</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#svm">
+    <dc:description>Máquinas de Soporte Vectorial</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#naive_bayes">
+    <dc:description>Naive Bayes</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://raw.githubusercontent.com/andres-melgar/rdf/master/algoritmos.rdf#knn">
+    <dc:description>k vecinos más cercanos</dc:description>
+  </rdf:Description>
+</rdf:RDF>
